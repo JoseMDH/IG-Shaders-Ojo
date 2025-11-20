@@ -1,7 +1,5 @@
 # IG-Shaders-Ojo
 He hecho dos proyectos en The Book of Shaders editor, uno en el que he querido mostrar el parpadeo de un ojo y el movimiento del mismo con el sitio del ratón y otro en el que se ha pedido que fuera de menos de 512 bytes, en el que he mantenido la idea del ojo, pero en este caso el efecto es como de un cambio de color del iris y una contracción como si se acercara y se alejara una luz.
-Enlace al Ejemplo 1 de más de 512 bytes: http://editor.thebookofshaders.com/
-Enlace al Ejemplo 2 de menos de 512 bytes: http://editor.thebookofshaders.com/
 
 La principal motivación de estos ejemplos, básicamente es que me pareció guay ilustrar un ojo moviendose y parpadeando como si tuviera vida en la pantalla. Es posible que se pueda hacer mejor, pero el ejemplo 1 a mí me ha gustado mucho como me ha quedado.
 
